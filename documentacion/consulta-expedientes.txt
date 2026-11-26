@@ -6,3 +6,4 @@ La aplicación permitirá consultar expedientes por:
 - Estado (abierto, en trámite, archivado)
 - Unidad administrativa
 - Test
+- Código OK
